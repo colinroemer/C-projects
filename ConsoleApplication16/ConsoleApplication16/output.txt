@@ -1,0 +1,6 @@
+Name    Position    Age   Annual Pay   Code  
+TGP      Clerical    1       8112       21
+JWW    Supervisor    2      13520       18
+TMS      Clerical    3      16224        7
+MLH    Management    3      64480       20
+SSB    Supervisor    2      25584       16

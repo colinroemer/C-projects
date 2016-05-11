@@ -1,0 +1,4 @@
+﻿  project3.cpp
+c:\users\colin.roemer\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\project3.cpp(124): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\colin.roemer\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\project3.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication15.vcxproj -> c:\users\colin.roemer\documents\visual studio 2015\Projects\ConsoleApplication15\Debug\ConsoleApplication15.exe
